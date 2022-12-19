@@ -4,6 +4,8 @@ Torpak-Notify ( https://www.fivemturk.com/threads/ucretsiz-edrp-exrp-inspired-no
 QbCore Progressbar ( https://github.com/Project-Sloth/progressbar )<br>
 QbCore Paket
 <br>
+not : Yazılan gereksinimler script dosyasının içerisinde bulunmakta haberin olsun
+<br>
 script in orjisi bu knk : https://forum.cfx.re/t/release-standalone-2-step-als-anti-lag-system/1057327
 <br>
 script videosu bu : https://streamable.com/mrkams
